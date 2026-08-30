@@ -27,7 +27,7 @@ A record of papers I have read.
     
 ## notes ##
 
-- topic
+- topics
   
 Personal notes from studying, exploring, and trying to understand things.
  
