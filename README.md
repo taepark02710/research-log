@@ -4,18 +4,6 @@ Consistently documented but never regularly scheduled.
 “Call me Ishmael.”
 — Moby-Dick, Herman Melville
 
-## log ##
-
-- date
-- status update
-- papers
-- ideas
-- notes
-
-
-Each entry may contain whatever feels worth remembering.
-No obligation to write every day.
-
 ## papers ##
 
 - author
